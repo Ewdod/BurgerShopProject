@@ -6,4 +6,4 @@
   # Sinan TAŞYAPAR [LinkedIn](https://www.linkedin.com/in/sinantsypr/) [GitHub](https://github.com/SinanTsypr)
   # Yasin GÜRBÜZ [LinkedIn](https://www.linkedin.com/in/yasin-gurbuz-27739115b/ ) [GitHub](https://github.com/gurbuzysn )
   # Batuhan HAYBEK [LinkedIn](https://www.linkedin.com/in/batuhan-haybek/ ) [GitHub](https://github.com/Ewdod )
-# Proect Link [Project](https://github.com/Ewdod/BurgerShopProject )
+# Project Link [Project](https://github.com/Ewdod/BurgerShopProject )
